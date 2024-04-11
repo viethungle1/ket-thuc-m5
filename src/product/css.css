@@ -1,0 +1,23 @@
+.list {
+    margin: auto;
+}
+.btn-success {
+    background-color: #53a451!important;
+}
+
+.buttonC {
+    margin-top: 10px;
+}
+
+.create {
+    border: 1px solid;
+    width: 400px;
+    height: 350px;
+    padding: 10px;
+    margin: 10px 10px;
+
+}
+
+.formEdit {
+
+}
